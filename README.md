@@ -4,7 +4,7 @@
 This web application prototype addresses data transformation challenges for Family Legacy Missions Zambia. It integrates Google Spreadsheet data, implements role-based access control (RBAC) using Directus, supports historical data access, smart data collection, issue tracking, and data visualization. Built with Next.js, Directus API, PostgreSQL, and Python, it is deployed on Vercel with a Directus instance in a Docker container.
 
 **Deployed URL**: [https://family-legacy-missions-zambia-data-web-app.vercel.app](https://family-legacy-missions-zambia-data-web-app.vercel.app)  
-**GitHub Repository**: [https://github.com/your-repo/family-legacy-missions-zambia-data-web-app](https://github.com/your-repo/family-legacy-missions-zambia-data-web-app) (Replace with actual repo link)
+**GitHub Repository**: [https://github.com/your-repo/family-legacy-missions-zambia-data-web-app/dashboard](https://github.com/your-repo/family-legacy-missions-zambia-data-web-app/dashboard) (Replace with actual repo link)
 
 ### Test Credentials
 - **Administrator**: Email: `admin@flmz.org`, Password: `Admin123!`

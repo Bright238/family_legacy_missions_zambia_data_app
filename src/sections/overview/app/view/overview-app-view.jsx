@@ -17,7 +17,6 @@ import { useAuthContext } from 'src/auth/hooks';
 
 import { AppWelcome } from '../app-welcome';
 import { AppWidgetSummary } from '../app-widget-summary';
-import { AppAreaInstalled } from '../app-area-installed';
 
 export function OverviewAppView() {
   const { user, loading } = useAuthContext();

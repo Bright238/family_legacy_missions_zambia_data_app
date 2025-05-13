@@ -200,6 +200,6 @@ Key entities in PostgreSQL (managed by Directus):
 
 ## Submission Details
 - **GitHub Repository**: [https://github.com/Bright238/family_legacy_missions_zambia_data_app.git](https://github.com/your-repo/family-legacy-missions-zambia-data-web-app)
-- **Deployed URL**: [https://family-legacy-missions-zambia-data-web-app.vercel.app](https://family-legacy-missions-zambia-data-web-app.vercel.app)
+- **Deployed URL**: [https://family-legacy-missions-zambia-data-web-app.vercel.app/dashboard](https://family-legacy-missions-zambia-data-web-app.vercel.app/dashboard)
 - **Documentation**: Included as `README.md` and `docs/assessment.md`.
-- **Contact**: Email submissions to `mer@familylegacyzambia.org`.
+- **Contact**:  `brightmafungautsikapamulomo@gmail.com`.

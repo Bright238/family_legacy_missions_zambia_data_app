@@ -60,7 +60,7 @@ export const navData = [
    * Management
    */
   {
-    subheader: 'Teachers Overview',
+    subheader: 'Teachers/Assessors Overview',
     items: [
       // { title: 'Dashboard', path: paths.dashboard.general.booking, icon: ICONS.booking },
       { title: 'View Home Visits', path: paths.dashboard.learners.root, icon: ICONS.job },

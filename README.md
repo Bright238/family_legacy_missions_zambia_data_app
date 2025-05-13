@@ -12,6 +12,11 @@ This web application prototype addresses data transformation challenges for Fami
 - **Assessor**: Email: `assessor@flmz.org`, Password: `Assessor123!`
 - **Field Officer**: Email: `field@flmz.org`, Password: `Field123!`
 
+### Dashboards, Visualizations, Charts and Reports
+Via the button: Via Reatime Visualizations
+**Deployed URL**: https://analytics.sadcgrains.com
+**Login**: Email: `administrator`, Password: `administrator`
+
 ## Features
 1. **Data Integration**:
    - Imports Google Spreadsheet data (Home Visits, Vulnerability Assessments, Literacy Assessments) using Python (`gspread`).

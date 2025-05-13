@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useBoolean } from 'minimal-shared/hooks';
 
 import Box from '@mui/material/Box';
@@ -16,6 +16,8 @@ import { paths } from 'src/routes/paths';
 import { usePathname } from 'src/routes/hooks';
 import { RouterLink } from 'src/routes/components';
 
+import axiosInstance, { endpoints } from 'src/lib/axios';
+
 import { Label } from 'src/components/label';
 import { Iconify } from 'src/components/iconify';
 import { Scrollbar } from 'src/components/scrollbar';
@@ -23,8 +25,6 @@ import { AnimateBorder } from 'src/components/animate';
 
 import { AccountButton } from './account-button';
 import { SignOutButton } from './sign-out-button';
-
-import axiosInstance, { endpoints } from 'src/lib/axios';
 
 // ----------------------------------------------------------------------
 

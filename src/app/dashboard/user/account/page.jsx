@@ -1,5 +1,6 @@
-import { AccountGeneralView } from 'src/sections/account/view';
 import { CONFIG } from 'src/global-config';
+
+import { AccountGeneralView } from 'src/sections/account/view';
 
 // ----------------------------------------------------------------------
 

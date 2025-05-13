@@ -12,7 +12,7 @@ This web application prototype addresses data transformation challenges for Fami
 - **Assessor**: Email: `assessor@flmz.org`, Password: `Assessor123!`
 - **Field Officer**: Email: `field@flmz.org`, Password: `Field123!`
 
-### Dashboards, Visualizations, Charts and Reports
+### Dashboards, Visualizations, Charts and Reports Credentials
 Via the button in the application you can: View Reatime Visualizations intergrated to the application backend for reporting.
 **Deployed URL**: https://analytics.sadcgrains.com
 **Login**: Email: `administrator`, Password: `administrator`
